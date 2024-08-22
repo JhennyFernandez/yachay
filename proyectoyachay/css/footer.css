@@ -1,0 +1,15 @@
+footer{
+	background: #5c3a94;
+}
+
+footer .contenedor {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-bottom: 30px;
+	color: #fff;
+}
+.copy {
+	font-size: 20px;
+	padding: 20px;
+}
